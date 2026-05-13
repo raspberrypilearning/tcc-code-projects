@@ -1,0 +1,4 @@
+name: 'The Computing Curriculum - Brute Force Activity'
+identifier: 'tcc-brute-force'
+type: 'python'
+build: true
